@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ## Opa, me chamo João Felipe Lemos apaixonado por tecnologia e estudando Front End Development!
-🌱 Atualmente estou estudando HTML, CSS e JS;
-📖 Cursando Analise e Desenolvimento de Sistemas;
+🌱 Atualmente estou estudando HTML, CSS e JS; <br>
+📖 Cursando Analise e Desenolvimento de Sistemas; <br>
 
 <div align="center">
   <a href="https://github.com/joaofelipelemos">
