@@ -6,7 +6,7 @@ Front End Developer Student
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [joaofelipelemos@outlook.com]
 * 💬 Ask me about **Management, Business Inteligence and Power BI**
-* 🧠  I'm learning **JavaScript**
+* 🧠  I'm learning **JavaScript** and **Cloud AWS**
 
 ### Skills
 
