@@ -4,10 +4,9 @@ Front End Developer Student
 ---------------------------
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
-* 🖥️  See my portfolio at [Dev391](http://www.dev391.com.br)
-* ✉️  You can contact me at [lemos391@gmail.com]
+* ✉️  You can contact me at [joaofelipelemos@outlook.com]
 * 💬 Ask me about **Management, Business Inteligence and Power BI**
-* 🧠  I'm learning **Python** and **SQL**
+* 🧠  I'm learning **JavaScript**
 
 ### Skills
 
